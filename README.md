@@ -240,17 +240,18 @@ Analyses were conducted in R using a comprehensive approach including:
 ## References
 
 ### Original PES Development
-Cheval, B., Maltagliati, S., Courvoisier, D. S., et al. (2024). Development and validation of the physical effort scale (PES). *Psychology of Sport and Exercise*, *72*, 102607. https://doi.org/10.1016/j.psychsport.2024.102607
+Cheval B, Maltagliati S, Courvoisier DS, et al. Development and validation of the physical effort scale (PES). Psychol Sport Exerc. 2024;72:102607. doi: 10.1016/j.psychsport.2024.102607
 
 ### French Version Validation
-St-Denis, B., Beaudry, S., Boigonier, M. P., et al. (2024). Validation de la version francophone de l'échelle d'effort physique (PES). [Journal information to be completed]
+St-Denis B, Beaudry S, Boisgontier MP, et al. Validation de la version francophone de l’Échelle d’Effort Physique. Mov Sport Sci. 2024;33–45. doi: 10.1051/sm/2024019
+
 
 ## Citation
 
 If you use this research, please cite as follows: 
 
 ```
-Development and psychometric evaluation of the Japanese version of the Physical Effort Scale (preparation). 
+Development and psychometric evaluation of the Japanese version of the Physical Effort Scale (in preparation). 
 Keishi Soga, Hiroyuki Sasai, Yasuyuki Taki, Boris Cheval, & Keita Kamijo
 GitHub repository: https://github.com/KeishiSoga/PES_JP
 ```

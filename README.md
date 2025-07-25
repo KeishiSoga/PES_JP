@@ -210,16 +210,6 @@ For inquiries about this research, please contact:
 - Email: [keishi.soga.b4@tohoku.ac.jp]
 - Affiliation: [Tohoku University]
 
-## Acknowledgments
-
-We thank all  the research team members.
-
-## Change Log
-
-- **v14**: GitHub release version (translated Japanese comments to English, removed additional analyses)
-- **v13**: Implementation of additional analyses
-- **v12**: Addition of reliability analyses
-- **v11**: Completion of validity testing
 
 ## Research Background
 
@@ -241,30 +231,6 @@ Analyses were conducted in R using a comprehensive approach including:
 - Reliability assessment (internal consistency and test-retest)
 - Validity testing through correlation and regression analyses
 - Multiple regression models controlling for age and sex
-
-## Key Findings
-
-### Factor Structure
-The Japanese PES demonstrated a clear 2-factor structure consistent with the original scale:
-- **Approach factor**: Items measuring tendency to approach physical effort
-- **Avoidance factor**: Items measuring tendency to avoid physical effort
-
-### Psychometric Properties
-- **Internal consistency**: Both factors showed excellent reliability 
-- **Test-retest reliability**: Stable scores over time
-- **Factor loadings**: All items loaded appropriately on their intended factors
-
-### Validity Evidence
-- **Concurrent validity**: 
-- **Convergent validity**: 
-- **Discriminant validity**:
-
-## Implications
-
-The Japanese version of the PES demonstrates strong psychometric properties and can be used to assess individual differences in effort-related tendencies toward physical activity in Japanese populations. The scale may be useful for:
-- Research on physical activity motivation and behavior
-- Assessment of psychological barriers to exercise
-- Development of targeted interventions
 
 ---
 

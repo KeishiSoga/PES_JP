@@ -2,7 +2,7 @@
 rm(list = ls())
 
 # Set working directory
-setwd("/Users/sogakeishi/Desktop/TEMPA/webtest_main/main_data")
+setwd("set your current directry file")
 
 
 library(ggplot2)

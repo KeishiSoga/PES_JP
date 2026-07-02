@@ -251,8 +251,9 @@ St-Denis B, Beaudry S, Boisgontier MP, et al. Validation de la version francopho
 If you use this research, please cite as follows: 
 
 ```
-Development and psychometric evaluation of the Japanese version of the Physical Effort Scale (in preprint). 
-https://www.researchsquare.com/article/rs-7515948/v1
+Development and psychometric evaluation of the Japanese version of the Physical Effort Scale. 
+Journal of Epidemiology, 2026.
+https://www.jstage.jst.go.jp/article/jea/advpub/0/advpub_JE20250530/_article/-char/ja
 Keishi Soga, Hiroyuki Sasai, Yasuyuki Taki, Boris Cheval, & Keita Kamijo
 GitHub repository: https://github.com/KeishiSoga/PES_JP
 ```
